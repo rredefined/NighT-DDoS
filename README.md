@@ -1,4 +1,4 @@
-# AuraDDoS by NighT
+# KynexLabs-DDoS by NighT
 
 Ddos attack with python using simple commands.
 
@@ -7,8 +7,8 @@ Ddos attack with python using simple commands.
 ## 📥 Install files and setup
 ```bash
 apt update && apt install git -y
-git clone https://github.com/rredefined/KrinixDDoS.git
-cd KrinixDDoS
+git clone https://github.com/rredefined/KynexLabs-DDoS.git
+cd KynexLabs-DDoS
 apt install python3-pip -y
 ```
 
@@ -33,6 +33,9 @@ python3 setup.py
 ### ▶️ Start the ddos
 ```
 python3 main.py
+```
+```
+help
 ```
 
 
