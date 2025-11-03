@@ -8,7 +8,7 @@ Ddos attack with python using simple commands.
 ```bash
 apt update && apt install git -y
 git clone https://github.com/rredefined/NighT-DDoS.git
-cd KynexLabs-DDoS
+cd NighT-DDoS
 apt install python3-pip -y
 ```
 
