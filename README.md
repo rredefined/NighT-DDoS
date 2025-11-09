@@ -1,4 +1,4 @@
-# KynexLabs-DDoS by NighT
+# NighT-DDoS by NighT
 
 Ddos attack with python using simple commands.
 
